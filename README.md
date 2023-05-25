@@ -2,6 +2,8 @@
 
 Trabalho de aprendizado não supervisionado utilizando fuzzy bayes e lógica fuzzy feito em Python 3.10
 
+O trabalho consiste em (1) desenvolvimento de redes Naive Bayes para suporte à tomada de decisão acerca da interrupção de ventilação mecânica assistida e (2) desenvolvimento de um sistema de inferência fuzzy para suporte à tomada de decisão acerca da interrupção, para finalmente (3) comparar os resultados obtidos com a rede Naive Bayes, sistema fuzzy.
+
 ## Instalação de pacotes:
 
 ```
